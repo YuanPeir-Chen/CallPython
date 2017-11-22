@@ -168,6 +168,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="sam.cpp" />
     <ClCompile Include="src\stdafx.cpp" />
     <ClCompile Include="src\test.cpp" />
   </ItemGroup>
